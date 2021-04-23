@@ -30,7 +30,7 @@ sub in_subnet($$);
 ## MySQL info
 my $mysql_host = 'localhost';
 my $mysql_user = 'squidaccess';
-my $mysql_pass = 'squidaccess';
+my $mysql_pass = 'Squidaccess 2021';
 my $mysql_db = 'squidaccess';
 
 ## Debug info
